@@ -1,0 +1,7 @@
+﻿<b>To Do:</b><br>
+• Fix pet editor (does not allow values of 0 or 10)<br>
+• Adjust pixels on triangle shape<br>
+• Fix random screen color generator<br>
+• Add grandparents/grandchildren to family tree as soon as a pair exists?<br>
+• Generation counter?<br>
+• Fix BBCode<br>
